@@ -1,0 +1,30 @@
+{
+  "name": "set-dots",
+  "version": "1.0.0",
+  "description": "Set dots every 3 digits to str or int (max: 10)",
+  "main": "lib/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianobenitezz/set-dots.git"
+  },
+  "keywords": [
+    "dots",
+    "set",
+    "number"
+  ],
+  "author": "bmariano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marianobenitezz/set-dots/issues"
+  },
+  "homepage": "https://github.com/marianobenitezz/set-dots#readme",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "types" : "lib"
+}
